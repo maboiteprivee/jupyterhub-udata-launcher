@@ -1,0 +1,6 @@
+jupyterhub_cookie_secret
+node_modules/
+pyenv/
+jupyterhub.sqlite
+__pycache__
+jupyterhub_config_secret.py
